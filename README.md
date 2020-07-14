@@ -5,4 +5,4 @@ student-enrollment-system
 This project was developed by me in India. This is a student Enrollment system currently in use by the College I used to go to. 
 
 ### Uses
-PHP for server, JS with JQuery for Front End
+PHP for server, MYSQL for DBs, JS with JQuery for Front End
